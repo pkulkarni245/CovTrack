@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CovTrack</string>
+    <string name="city_cases">Statewise Cases</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="total">total</string>
+    <string name="city">state</string>
+    <string name="title_activity_welcome">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
